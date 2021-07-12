@@ -56,7 +56,7 @@ function draw() {
     }
   }
   
-
+ keyPressed();
   
  
   drawSprites();
